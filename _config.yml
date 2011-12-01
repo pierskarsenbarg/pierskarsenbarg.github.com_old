@@ -1,4 +1,4 @@
 server: false
 lsi: true
-paginate: 10
+paginate: true
 permalink: /:categories/:year/:month/:day/:title
