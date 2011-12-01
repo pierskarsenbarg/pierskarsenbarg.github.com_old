@@ -1,3 +1,1 @@
-server: false
-lsi: true
 permalink: /:categories/:year/:month/:day/:title
