@@ -11,3 +11,5 @@ So yes, as the title says above, I'm trying to move away from Wordpress. Not tha
 Creating new pages on the move could be a bit of a pain in the backside, but I'm going to see if I can come up with a solution using the [Dropbox API](http://www.dropbox.com/developers) or something similar.
 
 I'm using the basic layout that a few people use to start with, based on [Tom Preston-Werner's blog](http://tom.preston-werner.com) but I'm hoping to get something a bit different done. Maybe over Christmas.
+
+I'm also going to add disqus at some point. Not that many people actually comment, but I'd certainly feel better about it.
