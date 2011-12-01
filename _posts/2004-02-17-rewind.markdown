@@ -1,0 +1,22 @@
+---
+author: piers
+date: '2004-02-17 21:20:52'
+layout: post
+slug: rewind
+status: publish
+title: Rewind...
+wordpress_id: '67'
+? ''
+: - Blog
+  - oldblog
+---
+
+...again. Yes I know that this is the second time I've restarted my blog. But
+I got encouraged by friend and client
+[Wesley](http://www.livejournal.com/~kingsbishop/) from the
+[DeepStar](http://www.deepstar.org/) project.
+
+Well, I think I'll stick with this style for now, but I'm gonna look into
+creating a new one. I'm pretty sure that I've said that before, but this time
+it's gonna happen; I hope.
+

@@ -1,0 +1,19 @@
+---
+author: piers
+date: '2008-10-27 21:20:49'
+layout: post
+slug: disqus
+status: publish
+title: Disqus
+wordpress_id: '123'
+? ''
+: - Blog
+  - comments
+  - disqus
+  - misc
+---
+
+I'm trying out Disqus for comments rather than using the standard Wordpress.
+You don't have to register to leave a comment, but if you do then you can view
+all your comments in one place.
+

@@ -1,0 +1,33 @@
+---
+author: piers
+date: '2009-05-05 13:35:26'
+layout: post
+slug: summer-films-2009
+status: publish
+title: Summer Films 2009
+wordpress_id: '302'
+? ''
+: - Blog
+---
+
+Just a list of the films that I'd like to see over the summer. Hopefully I'll
+get to see all of them. They're not in any particular order:
+
+  * [Harry Potter and the Half Blood Prince](http://www.imdb.com/title/tt0417741/) - [Trailer](http://www.apple.com/trailers/wb/harrypotterandthehalfbloodprince/)
+  * [Star Trek](http://www.imdb.com/title/tt0796366/) - [Trailer](http://www.apple.com/trailers/paramount/startrek/)
+  * [X-Men Origins - Wolverine](http://www.imdb.com/title/tt0458525/) - [Trailer](http://www.apple.com/trailers/fox/wolverine/)
+  * [Fast & Furious](http://www.imdb.com/title/tt1013752/) - [Trailer](http://www.apple.com/trailers/universal/fastandfurious/)
+  * [Ice Age: Dawn of the Dinosaurs](http://www.imdb.com/title/tt1080016/) - [Trailer](http://www.apple.com/trailers/fox/iceagedawnofthedinosaurs/)
+  * [Angels and Demons](http://www.imdb.com/title/tt0808151/) - [Trailer](http://www.apple.com/trailers/sony_pictures/angelsdemons/)
+  * [G.I. Joe: The Rise of the Cobra](http://www.imdb.com/title/tt1046173/) - [Trailer](http://www.apple.com/trailers/paramount/gijoeriseofcobra/)
+  * [Public Enemies](http://www.imdb.com/title/tt1152836/) - [Trailer](http://www.apple.com/trailers/universal/publicenemies/)
+  * [Transformers: Revenge of the Fallen](http://www.imdb.com/title/tt1055369/) - [Trailer](http://www.apple.com/trailers/paramount/transformersrevengeofthefallen/)
+  * [Terminator Salvation](http://www.imdb.com/title/tt0438488/) - [Trailer](http://www.apple.com/trailers/wb/terminatorsalvation/)
+  * [Sherlock Holmes](http://www.imdb.com/title/tt0988045/) - [Trailer](http://www.youtube.com/watch?v=S4K3aM5H5KM) - make sure you watch it in HD
+
+Yes I know there are plenty more films coming up over the next three months,
+but those are the ones I'm most looking forward to.
+
+And I'm definately planning on having a Harry Potter marathon before July
+17th.
+

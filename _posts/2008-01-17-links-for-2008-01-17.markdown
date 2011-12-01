@@ -1,0 +1,74 @@
+---
+author: piers
+date: '2008-01-17 00:45:37'
+layout: post
+slug: links-for-2008-01-17
+status: publish
+title: links for 2008-01-17
+wordpress_id: '48'
+? ''
+: - Blog
+---
+
+  * [Why Can't I Own a Canadian?](http://www.humanistsofutah.org/2002/WhyCantIOwnACanadian_10-02.html)
+
+Very very funny
+
+(tags: [funny](http://del.icio.us/piersk/funny)
+[humour](http://del.icio.us/piersk/humour)
+[laws](http://del.icio.us/piersk/laws)
+[stupid](http://del.icio.us/piersk/stupid))
+
+  * [Geek Culture - No.1 in MMORPG, MMOG, MMO, Online Gaming Community and Guild Hosting!](http://my.mmoabc.com/article/Michael/2193.html?login=no)
+
+(tags: [humour](http://del.icio.us/piersk/humour)
+[photos](http://del.icio.us/piersk/photos))
+
+  * [Computer Languages History (preview)](http://www.levenez.com/lang/history.html)
+
+(tags: [development](http://del.icio.us/piersk/development)
+[Programming](http://del.icio.us/piersk/Programming)
+[history](http://del.icio.us/piersk/history)
+[technology](http://del.icio.us/piersk/technology))
+
+  * [8fmd9mw.jpg (JPEG Image, 900x642 pixels)](http://i11.tinypic.com/8fmd9mw.jpg)
+
+(tags: [internet](http://del.icio.us/piersk/internet))
+
+  * [116.gif (GIF Image, 400x439 pixels)](http://www.wanderingpandacomics.com/mrgoh/comics/116.gif)
+
+(tags: [comics](http://del.icio.us/piersk/comics)
+[funny](http://del.icio.us/piersk/funny))
+
+  * [camembert.png (PNG Image, 550x410 pixels)](http://blog.alsacreations.com/images/camembert.png)
+
+  * [designer.gif (GIF Image, 800x600 pixels)](http://www.fukung.net/images/2674/designer.gif)
+
+So true. Even more so since my clients are car salesmen....
+
+(tags: [humour](http://del.icio.us/piersk/humour)
+[webdesign](http://del.icio.us/piersk/webdesign)
+[design](http://del.icio.us/piersk/design))
+
+  * [The Pro-Choice Argument | Canucklehead.ca | Canucklehead](http://www.canucklehead.ca/look/pro-choice.html)
+
+(tags: [humour](http://del.icio.us/piersk/humour) [pro-
+choice](http://del.icio.us/piersk/pro-choice))
+
+  * [HTTP Response Codes](http://libraries.ucsd.edu/about/tools/http-response-codes.html)
+
+(tags: [useful](http://del.icio.us/piersk/useful))
+
+  * [NewsBiscuit: Image of a piece of toast seen on face of the Virgin Mary](http://newsbiscuit.com/article/image-of-a-piece-of-toast-seen-on-face-of-the-virgin-mary)
+
+  * [Bootdisk.Com](http://bootdisk.com/)
+
+(tags: [computer](http://del.icio.us/piersk/computer)
+[drivers](http://del.icio.us/piersk/drivers)
+[microsoft](http://del.icio.us/piersk/microsoft))
+
+  * [Country List for Form Menu](http://www.mediacollege.com/internet/samples/html/country-list.html)
+
+(tags: [Programming](http://del.icio.us/piersk/Programming)
+[tutorial](http://del.icio.us/piersk/tutorial))
+

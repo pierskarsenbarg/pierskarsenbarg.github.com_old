@@ -1,0 +1,16 @@
+---
+author: piers
+date: '2008-10-12 16:45:10'
+layout: post
+slug: test-post
+status: publish
+title: Test Post
+wordpress_id: '109'
+? ''
+: - Blog
+---
+
+I've just installed Windows live Writer. Just a test post to try it out.
+
+More later...
+

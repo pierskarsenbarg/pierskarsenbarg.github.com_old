@@ -1,0 +1,32 @@
+---
+author: piers
+date: '2009-09-16 12:25:25'
+layout: post
+slug: new-job
+status: publish
+title: New job
+wordpress_id: '407'
+? ''
+: - Blog
+  - career
+  - life
+  - new job
+  - pull digital
+---
+
+It's been about a week now since I handed in my notice, so it's probably about
+time that I posted something up here. Yes, I've got a new job!
+
+I'm going to be working for a company called [Pull
+Digital](http://www.pulldigital.com) (take a look at the website to see what
+they do), doing web development (.NET, some Sharepoint stuff by the looks of
+things) and I'm excited.
+
+Some people have said that they find moving to a new company stressful, but
+I've never found that. I relish the challenge of meeting new people, working
+out how the company works and finding my niche amongst people who have their
+own unique way of working.
+
+I've really enjoyed my time at UK Web Sites, but I felt that it was time to
+move on, meet new people and move on with my career.
+

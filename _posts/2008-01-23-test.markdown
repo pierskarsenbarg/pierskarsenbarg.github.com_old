@@ -1,0 +1,14 @@
+---
+author: piers
+date: '2008-01-23 10:38:23'
+layout: post
+slug: test
+status: publish
+title: Test
+wordpress_id: '53'
+? ''
+: - Blog
+---
+
+Just trying a post using Wavelog. Just to see how it goes.
+

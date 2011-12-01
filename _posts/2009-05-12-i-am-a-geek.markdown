@@ -1,0 +1,15 @@
+---
+author: piers
+date: '2009-05-12 13:26:48'
+layout: post
+slug: i-am-a-geek
+status: publish
+title: I am a geek
+wordpress_id: '308'
+? ''
+: - Web
+---
+
+  
+Nuff said.
+

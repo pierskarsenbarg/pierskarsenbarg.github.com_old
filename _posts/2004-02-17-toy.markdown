@@ -1,0 +1,19 @@
+---
+author: piers
+date: '2004-02-17 21:35:09'
+layout: post
+slug: toy
+status: publish
+title: Toy!!
+wordpress_id: '68'
+? ''
+: - Blog
+  - oldblog
+---
+
+Cool!! Just I have just installed [pocketblog](http://web.archive.org/web/2004
+0825143835/http://www.pocketblog.com/) which means that i can write posts on
+my Dell Axim.
+
+It's harder then it looks tho....
+

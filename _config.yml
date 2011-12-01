@@ -1,0 +1,3 @@
+server: false
+lsi: true
+paginate: 10

@@ -1,0 +1,32 @@
+---
+author: piers
+date: '2008-01-22 00:40:35'
+layout: post
+slug: links-for-2008-01-22
+status: publish
+title: links for 2008-01-22
+wordpress_id: '51'
+? ''
+: - Blog
+---
+
+  * [Database War Stories #3: Flickr](http://radar.oreilly.com/archives/2006/04/database_war_stories_3_flickr.html)
+
+  * [Ruby on Rails Tutorial](http://www.tutorialspoint.com/ruby-on-rails/index.htm)
+
+Another one. This looks quite a good one
+
+(tags: [development](http://del.icio.us/piersk/development)
+[rails](http://del.icio.us/piersk/rails)
+[tutorials](http://del.icio.us/piersk/tutorials))
+
+  * [80s Cartoons - the best 80s Cartoons site on the net!](http://www.80scartoons.co.uk/)
+
+Real nostalgia site.
+
+(tags: [cool](http://del.icio.us/piersk/cool)
+[england](http://del.icio.us/piersk/england)
+[history](http://del.icio.us/piersk/history)
+[music](http://del.icio.us/piersk/music)
+[reference](http://del.icio.us/piersk/reference))
+

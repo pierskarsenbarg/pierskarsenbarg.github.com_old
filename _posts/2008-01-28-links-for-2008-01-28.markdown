@@ -1,0 +1,14 @@
+---
+author: piers
+date: '2008-01-28 00:38:57'
+layout: post
+slug: links-for-2008-01-28
+status: publish
+title: links for 2008-01-28
+wordpress_id: '59'
+? ''
+: - Blog
+---
+
+  * [Web 2.0 workplaces [PICS] - UADDit](http://uaddit.com/discussions/showthread.php?t=706)
+

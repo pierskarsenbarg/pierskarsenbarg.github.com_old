@@ -1,0 +1,22 @@
+---
+author: piers
+date: '2008-01-15 14:52:05'
+layout: post
+slug: links
+status: publish
+title: Links
+wordpress_id: '46'
+? ''
+: - Blog
+  - Blog
+  - links
+---
+
+The previous post was me testing [del.icio.us](http://del.icio.us) (my
+bookmarking tool of choice)'s "post to blog" tool. I might leave it to do its
+thing for a while. I'm also trying [StumbleUpon](http://www.stumbleupon.com)
+at the moment to find new content, so some of that I'll probably post to
+del.icio.us and thereby to the blog.
+
+I'll try it for a while. I might keep it. I might not. Who knows?
+

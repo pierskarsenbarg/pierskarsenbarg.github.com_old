@@ -1,0 +1,37 @@
+---
+author: piers
+date: '2008-01-29 00:42:39'
+layout: post
+slug: links-for-2008-01-29
+status: private
+title: links for 2008-01-29
+wordpress_id: '60'
+? ''
+: - Blog
+---
+
+  * [YUI: CSS Grid Builder](http://developer.yahoo.com/yui/grids/builder/)
+
+Could be useful
+
+  * [Apropos Comics : Apropos of Something](http://wiw.org/~jess/archives/category/apropos-comics/)
+
+(tags: [hacks](http://del.icio.us/piersk/hacks)
+[humor](http://del.icio.us/piersk/humor)
+[webcomic](http://del.icio.us/piersk/webcomic))
+
+  * [Danny's Vista Setup](http://www.daniel-richards.net/vista.html)
+
+Could be quite useful. Might take a proper look at some point
+
+(tags: [computer](http://del.icio.us/piersk/computer)
+[microsoft](http://del.icio.us/piersk/microsoft)
+[optimization](http://del.icio.us/piersk/optimization)
+[vista](http://del.icio.us/piersk/vista))
+
+  * [42 ways to enhance and improve your network | Jason Slater Weblog](http://www.jasonslater.co.uk/index.php/2008/01/24/42-ways-to-enhance-and-improve-your-network/)
+
+  * [BBC NEWS | Entertainment | School Musical show to hit London](http://news.bbc.co.uk/1/hi/entertainment/7212810.stm)
+
+One to show Emma
+

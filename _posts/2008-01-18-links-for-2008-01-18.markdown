@@ -1,0 +1,16 @@
+---
+author: piers
+date: '2008-01-18 00:38:11'
+layout: post
+slug: links-for-2008-01-18
+status: publish
+title: links for 2008-01-18
+wordpress_id: '49'
+? ''
+: - Blog
+---
+
+  * [ONLamp.com -- Rolling with Ruby on Rails](http://www.onlamp.com/pub/a/onlamp/2005/01/20/rails.html?page=2)
+
+As I think it's about time i looked at RoR
+

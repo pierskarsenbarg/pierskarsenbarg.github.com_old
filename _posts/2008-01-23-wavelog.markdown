@@ -1,0 +1,19 @@
+---
+author: piers
+date: '2008-01-23 10:40:59'
+layout: post
+slug: wavelog
+status: publish
+title: Wavelog
+wordpress_id: '54'
+? ''
+: - Tech
+  - Web
+---
+
+I've been looking to a way to post to this here blog from my N95 for a while
+and had heard good things about
+[Wavelog](http://www.telewaving.com/products_2.html) (just released). I'm
+going to have a play over the next couple of weeks. You'll see the results
+here.
+

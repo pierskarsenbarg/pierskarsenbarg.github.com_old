@@ -1,0 +1,19 @@
+---
+author: piers
+date: '2008-01-23 00:50:03'
+layout: post
+slug: links-for-2008-01-23
+status: publish
+title: links for 2008-01-23
+wordpress_id: '52'
+? ''
+: - Blog
+---
+
+  * [UK's number one router open to VoIP hijacking | The Register](http://www.theregister.co.uk/2008/01/21/bt_home_hub_voip_hijacking/)
+
+This is worrying. I know quite a few people with a BT Home Hub.
+
+(tags: [security](http://del.icio.us/piersk/security)
+[BT](http://del.icio.us/piersk/BT) [VoIP](http://del.icio.us/piersk/VoIP))
+

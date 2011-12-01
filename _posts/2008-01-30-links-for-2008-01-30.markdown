@@ -1,0 +1,14 @@
+---
+author: piers
+date: '2008-01-30 00:52:46'
+layout: post
+slug: links-for-2008-01-30
+status: publish
+title: links for 2008-01-30
+wordpress_id: '61'
+? ''
+: - Blog
+---
+
+  * [How to create CSS layouts without using FLOAT](http://tjkdesign.com/articles/float-less_css_layouts.asp)
+
