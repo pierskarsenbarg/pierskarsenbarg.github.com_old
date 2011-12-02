@@ -3,13 +3,17 @@ layout: default
 title: Piers Karsenbarg
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in paginator.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+{% for post in paginator.posts %}
+<div class="span-7">
+  <a href="{{ post.url }}">{{ post.title }}</a>
+</div>
+<div class="span-4">
+{{ post.date | date_to_string }}
+</div>
+{% endfor %}
+
+
+  
   <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
@@ -23,7 +27,3 @@ title: Piers Karsenbarg
   {% else %}
     <span class="next ">Next</span>
   {% endif %}
-</div>
-
-  
-</div>
