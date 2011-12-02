@@ -1,6 +1,7 @@
 ---
 author: Piers Karsenbarg
 title: You must watch this
+layout: post
 ---
 
 [The extended trailer](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewFeature?id=485056743&mt=1&s=143441) of what I think will be THE film of the year, [The Girl With The Dragon Tattoo](http://www.imdb.com/title/tt1568346/). The film is of course based on the first novel from the hugely popular [Millenium series](http://en.wikipedia.org/wiki/Millennium_series) by the late author, [Stieg Larsson](http://en.wikipedia.org/wiki/Stieg_Larsson). If you haven't seen the [original](http://www.imdb.com/title/tt1132620/) [Swedish](http://www.imdb.com/title/tt1216487/) [films](http://www.imdb.com/title/tt1343097/), I suggest you do. They are truly excellent. Although there are a few bits that do not stick to the original books, they are definitely worth seeing. 
