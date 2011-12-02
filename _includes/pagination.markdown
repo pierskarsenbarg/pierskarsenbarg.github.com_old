@@ -1,6 +1,6 @@
   <!-- Pagination links -->
-<div class="pagination span-10">
-  {% if paginator.previous_page %}
+
+{% if paginator.previous_page %}
   <p class="previous">
     {% if paginator.previous_page == 1 %}
     <a href="/">Previous</a>
@@ -13,10 +13,28 @@
     <span>Previous</span>
   </p>
   {% endif %}
-  <span class="page_number ">Page: {{paginator.page}} of {{paginator.total_pages}}</span>
+
+ {% if paginator.page == 1 %}
+      <span class="current-page">1</span>
+      {% else %}
+      <a href="/">1</a>
+      {% endif %}
+{% for count in (2..paginator.total_pages) %}
+ {% if count == paginator.page %}
+      <span class="current-page">{{count}}</span>
+      {% else %}
+      <a href="/page{{count}}">{{count}}</a>
+      {% endif %}
+{% endfor %}
+
+
+
   {% if paginator.next_page %}
-    <a href="/page{{paginator.next_page}}" class="next ">Next</a>
+  <p class="next">
+    <a href="/page{{paginator.next_page}}">Next</a>
+  </p>
   {% else %}
-    <span class="next ">Next</span>
+  <p class="next disabled">
+    <span>Next</span>
+  </p>
   {% endif %}
-</div>
