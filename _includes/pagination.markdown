@@ -1,40 +1,14 @@
-  <!-- Pagination links -->
-
-{% if paginator.previous_page %}
-  <p class="previous">
-    {% if paginator.previous_page == 1 %}
-    <a href="/">Previous</a>
-    {% else %}
-    <a href="/page{{paginator.previous_page}}">Previous</a>
-    {% endif %}
-  </p>
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="/page{{paginator.previous_page}}" class="previous">Previous</a>
   {% else %}
-  <p class="previous disabled">
-    <span>Previous</span>
-  </p>
+    <span class="previous">Previous</span>
   {% endif %}
-
- {% if paginator.page == 1 %}
-      <span class="current-page">1</span>
-      {% else %}
-      <a href="/">1</a>
-      {% endif %}
-{% for count in (2..paginator.total_pages) %}
- {% if count == paginator.page %}
-      <span class="current-page">{{count}}</span>
-      {% else %}
-      <a href="/page{{count}}">{{count}}</a>
-      {% endif %}
-{% endfor %}
-
-
-
+  <span class="page_number ">Page: {{paginator.page}} of {{paginator.total_pages}}</span>
   {% if paginator.next_page %}
-  <p class="next">
-    <a href="/page{{paginator.next_page}}">Next</a>
-  </p>
+    <a href="/page{{paginator.next_page}}" class="next ">Next</a>
   {% else %}
-  <p class="next disabled">
-    <span>Next</span>
-  </p>
+    <span class="next ">Next</span>
   {% endif %}
+</div>
