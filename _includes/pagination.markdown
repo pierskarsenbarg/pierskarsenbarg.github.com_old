@@ -11,3 +11,4 @@
   {% else %}
     <span class="next ">Next</span>
   {% endif %}
+</div>
