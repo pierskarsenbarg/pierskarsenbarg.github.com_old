@@ -1,5 +1,5 @@
   <!-- Pagination links -->
-<div class="pagination">
+<div class="pagination span-10">
   {% if paginator.previous_page %}
     <a href="/page{{paginator.previous_page}}" class="previous">Previous</a>
   {% else %}
