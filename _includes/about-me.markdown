@@ -1,3 +1,3 @@
 I'm a 29 year old developer living in London and working for the Royal Horticultural Society.
 
-[@codingbadger](http://twitter.com/codingbadger) if you're interested.
+[My CV](/piers-karsenbarg-cv) if you're interested.
