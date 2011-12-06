@@ -18,7 +18,7 @@ layout: post
 **Nationality:** British  
 **Driving Licence:** Full British Licence with no endorsements  
 
-**Personal Statement**  
+### Personal Statement
 
 A web developer who is comfortable and confident at working both as an
 individual and as part of a team. I have had an interest in IT for most of my
@@ -29,7 +29,8 @@ starting to learn Django/Python. I am also a big advocate of the Open Source
 software movement.
 
   
-**Previous Employment**  
+### Previous Employment
+
 _Royal Horticultural Society_
 
 My task here was both to develop functionality for the site (which is based on
@@ -128,13 +129,17 @@ rolled out all computers for use by students. Also used Fortres 101 to ensure
 tamper resistant systems.
 
   
-**Skills**  
-ASP - 6 years experience MS SQL Server - 4 years experience MS IIS - 6 years
-experience MS Exchange - 4 years experience MS Active Directory - 4 years
-experience Apache - 3 years experience PHP - 3 years experience MySQL – 3
-years experience
+### Skills
+ASP - 6 years experience  
+MS SQL Server - 4 years experience  
+MS IIS - 6 years experience  
+MS Active Directory - 4 years experience  
+Apache - 3 years experience  
+PHP - 3 years experience  
+MySQL – 3 years experience
 
-**Education**  
+### Education
+
 2001 – 2005 Studied Computer Science and Engineering Bsc(Hons) – University of
 Surrey 1998 – 2000 A Levels in Physics, Mathematics and Electronics and A/S in
 Music 1993 – 1998 10 GCSEs
