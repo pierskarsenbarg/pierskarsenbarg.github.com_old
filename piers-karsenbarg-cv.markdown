@@ -11,11 +11,11 @@ layout: post
 
 [Download CV here](http://piersonthe.net/Piers_Karsenbarg_CV.pdf)
 
-**Name:** Piers Karsenbarg 
-**Tel.:** 07950734022 
-**Email:** [email@piersonthe.net](mailto:email@piersonthe.net) 
-**D.O.B.:** 10th December 1981 
-**Nationality:** British 
+**Name:** Piers Karsenbarg  
+**Tel.:** 07950734022  
+**Email:** [email@piersonthe.net](mailto:email@piersonthe.net)  
+**D.O.B.:** 10th December 1981  
+**Nationality:** British  
 **Driving Licence:** Full British Licence with no endorsements  
 
 **Personal Statement**  
