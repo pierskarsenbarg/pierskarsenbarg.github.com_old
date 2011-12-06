@@ -6,6 +6,7 @@ slug: piers-karsenbarg-cv
 status: publish
 title: CV
 wordpress_id: '603'
+layout: post
 ---
 
 [Download CV here](http://piersonthe.net/Piers_Karsenbarg_CV.pdf)
@@ -34,7 +35,7 @@ build process (using both TFS and NAnt) was smooth, without errors and bugs
 all the way to the live servers.
 
   
-_Pull Digital Ltd_ - Senior Developer (Oct 09 - Nov 10)
+_Pull Digital Ltd_ - Senior Developer (Oct 09 &dash; Nov 10)
 
 As part of a small design agency my role was primarily to turn the designs
 given to me by the creative director and create the templates necessary to put
@@ -53,7 +54,7 @@ took place, that the servers were secure and that my colleagues and clients
 could access what they want, when they want.
 
   
-_UK Websites_ – Senior Web Developer (Dec 07 – Oct 09)
+_UK Websites_ – Senior Web Developer (Dec 07 &dash; Oct 09)
 
 My role here was very varied. My primary job is web development using ASP and
 SQL Server. Added to this is the creation of programs to run in the background
@@ -66,7 +67,7 @@ servers, one with IIS 6 and one with SQL Server 2005 (both running Windows
 Server 2003).
 
   
-_Expert Training Systems_ - Web Applications Developer (July 06 – Dec 07)
+_Expert Training Systems_ - Web Applications Developer (July 06 &dash; Dec 07)
 
 As part of a medium sized team of developers, my main role was to develop,
 design and maintain web-based survey systems, for both staff opinion surveys
@@ -77,7 +78,7 @@ of sometimes thousands of participants. Finally I was responsible, within my
 projects, for the SQL Server database that the systems used as storage.
 
   
-_University of Surrey Students' Union_ – VP Societies and Culture (June 05 –
+_University of Surrey Students' Union_ – VP Societies and Culture (June 05 &dash;
 June 06)
 
 Worked as part of a team of six who are tasked with running all aspects of the
