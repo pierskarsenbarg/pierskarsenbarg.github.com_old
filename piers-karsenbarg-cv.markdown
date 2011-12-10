@@ -9,7 +9,7 @@ wordpress_id: '603'
 layout: post
 ---
 
-[Download CV here](http://piersonthe.net/Piers_Karsenbarg_CV.pdf)
+[Download CV here](/piers-karsenbarg-cv.pdf)
 
 **Name:** Piers Karsenbarg  
 **Tel.:** 07950734022  
@@ -146,5 +146,5 @@ Music 1993 – 1998 10 GCSEs
 
 References available on request.
 
-[Download CV here](http://piersonthe.net/Piers_Karsenbarg_CV.pdf)
+[Download CV here](/piers-karsenbarg-cv.pdf)
 
