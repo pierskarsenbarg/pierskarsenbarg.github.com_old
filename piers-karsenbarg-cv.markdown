@@ -25,7 +25,7 @@ software movement.
   
 ### Current Employment
 
-_Royal Horticultural Society_ - .NET Developer (Nov 10 &dash Present)
+_Royal Horticultural Society_ - .NET Developer (Nov 10 &dash; Present)
 
 My task here was both to develop functionality for the site (which is based on
 a heavily modified version of Kentico CMS) as well as administering the two
