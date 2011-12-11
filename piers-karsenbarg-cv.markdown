@@ -23,7 +23,7 @@ starting to learn Django/Python. I am also a big advocate of the Open Source
 software movement.
 
   
-### Previous Employment
+### Current Employment
 
 _Royal Horticultural Society_
 
@@ -34,6 +34,8 @@ involved in all aspects of the development process; from helping put together
 functional specifications, to building the software and ensuring that the
 build process (using both TFS and NAnt) was smooth, without errors and bugs
 all the way to the live servers.
+
+### Previous Employment
 
   
 _Pull Digital Ltd_ - Senior Developer (Oct 09 &dash; Nov 10)
