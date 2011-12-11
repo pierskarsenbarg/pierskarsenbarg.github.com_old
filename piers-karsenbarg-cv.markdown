@@ -1,12 +1,6 @@
 ---
-author: piers
-date: '2010-05-08 15:16:00'
-layout: page
-slug: piers-karsenbarg-cv
-status: publish
 title: CV
-wordpress_id: '603'
-layout: post
+layout: cv
 ---
 
 [Download CV here](/piers-karsenbarg-cv.pdf)
