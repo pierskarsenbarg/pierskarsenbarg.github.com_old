@@ -1,0 +1,6 @@
+---
+layout: post
+title: New site
+---
+
+So I've now pointed my domain name at the the site that I've got hosted on github pages. And this is what you're seeing. There might be some tweaking now and again. We'll see how much time I have.
