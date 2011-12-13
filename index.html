@@ -45,5 +45,8 @@ title: Piers Karsenbarg
 	  <div class="small bottom">Posted {{ post.date | date_to_string }}</div>
 	</div>
 	{% endfor %}
+  <div class="span-10">
+    {% include pagination.markdown %}
+  </div>
   </div>
 </div>
