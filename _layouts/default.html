@@ -6,7 +6,7 @@
     <meta name="author" content="Piers Karsenbarg" />
     <link href='http://fonts.googleapis.com/css?family=Maiden+Orange' rel='stylesheet' type='text/css'>
     <link href="http://feeds.feedburner.com/piersonthenet" rel="alternate" title="piersonthe.net" type="application/atom+xml" />
-
+    <script src="http://platform.twitter.com/anywhere.js?id=YOUR_API_KEY&v=1" type="text/javascript"></script>
     <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection">
     <link rel="stylesheet" href="/css/print.css" type="text/css" media="print"> 
     <!--[if lt IE 8]>
@@ -35,6 +35,12 @@
     </script>
   </head>
   <body>
+    <script type="text/javascript">
+      twttr.anywhere(function (T) {
+        T.hovercards();
+        T.linkifyUsers();
+      });
+    </script>
     <div class="container">
       <header>  
         <div class="span-16 prepend-top prepend-4 append-4 last">     
