@@ -1,7 +1,7 @@
 ---
 author: piers
 date: '2008-03-28 13:44:27'
-layout: page
+layout: post
 slug: contact
 status: publish
 title: Contact
