@@ -18,7 +18,7 @@ A web developer who is comfortable and confident at working both as an
 individual and as part of a team. I have had an interest in IT for most of my
 life and try to keep abreast of all the latest innovations in Internet-related
 technology. Although all my commercial work has been in C# and ASP.NET I am
-also proficiant in PHP (including the use of CodeIgniter MVC framework) and am
+also proficient in PHP (including the use of CodeIgniter MVC framework) and am
 starting to learn Django/Python. I am also a big advocate of the Open Source
 software movement.
 
