@@ -15,4 +15,3 @@ answer on any of them (except possibly email) but here we go:
 SvvcPQyg==&c=5QmihZheMLvy3zUvF8RGRSEpW44EiGgf5o6o7__YiUw=) @pierskarsenbarg
 [LinkedIn](http://www.linkedin.com/in/pierskarsenbarg)
 [Plaxo](http://piers.myplaxo.com/)
-
