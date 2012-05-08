@@ -1,1 +1,1 @@
-I'm a 30 year old ASP.NET developer living in London and working for the Royal Horticultural Society.  
+I'm an ASP.NET developer living in London and working for the Royal Horticultural Society.  
