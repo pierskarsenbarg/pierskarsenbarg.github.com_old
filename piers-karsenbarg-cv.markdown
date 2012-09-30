@@ -14,26 +14,16 @@ layout: cv
 
 ### Personal Statement
 
-A web developer who is comfortable and confident at working both as an
+An ASP.NET developer who is comfortable and confident at working both as an
 individual and as part of a team. I have had an interest in IT for most of my
 life and try to keep abreast of all the latest innovations in Internet-related
-technology. Although all my commercial work has been in C# and ASP.NET I am
-also proficient in PHP (including the use of CodeIgniter MVC framework) and am
-starting to learn Django/Python. I am also a big advocate of the Open Source
-software movement.
-
+technology. 
   
 ### Current Employment
 
-_Royal Horticultural Society_ - .NET Developer (Nov 10 &dash; Present)
+_Royal Horticultural Society_ - Lead Developer (Nov 10 &dash; Present)
 
-My task here was both to develop functionality for the site (which is based on
-a heavily modified version of Kentico CMS) as well as administering the two
-web servers and sql server 2008 cluster that hosts the site. I was fully
-involved in all aspects of the development process; from helping put together
-functional specifications, to building the software and ensuring that the
-build process (using both TFS and NAnt) was smooth, without errors and bugs
-all the way to the live servers.
+My current role at the RHS involves managing a team of .NET developers (both contract and permanent) in the Online team, developing and maintaining the RHS website. This involves assigning tasks, maintaining focus and managing their workflow as well as line managing the permanent staff in terms of personal development. On top of this there is also my part in the development of new features on the website and making sure that regular code reviews and knowledge sharing takes place. I also ensure that the release process is adhered to so that efficient, well tested and stable applications are developed. The project management is agile based, with stand ups taking place within the development team and weekly ones taking place with the rest of the online team. 
 
 ### Previous Employment
 
